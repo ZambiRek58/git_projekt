@@ -1,0 +1,23 @@
+Zadanie 3: Mergowanie (Łączenie gałęzi) (2 pkt)
+Wróć na gałąź 
+main . Wykonaj 
+merge gałęzi 
+udanym połączeniu.
+feature-list do 
+main . Usuń lokalnie gałąź 
+Zadanie 4: Cherry-pick (Wybiórcze pobieranie) (3 pkt)
+feature-list po
+To zadanie wymaga precyzji:
+Stwórz nową gałąź 
+experimental .
+Zrób na niej dwa osobne commity (np. dodaj dwa różne pliki tekstowe).
+Przełącz się z powrotem na 
+main .
+Użyj 
+git cherry-pick [hash_commitu] , aby pobrać do 
+(pomiń pierwszy).
+Zadanie 5: Historia i sprzątanie (2 pkt)
+main tylko drugi z wykonanych commitów
+Wyświetl historię commitów w formie graficznej za pomocą komendy 
+git log --graph --oneline --all . Wyślij
+wszystkie zmiany na GitHub
